@@ -1,2 +1,3 @@
-# hito
-Hito desarrollo interfaces Django
+La pagina con localhost:8000 nos mete dentro del home. En home tenemos un conjuntillo de imagenes organizadas con divs y background-images, algun gif... He creado un base.html para que todos tengan un header y un footer. La cabecera tiene el nombre de la pagina, unos enlaces para las redes sociales pero que llevan a un video sorpresa para ti.
+
+Después de darle al boton de entrar, pasamos al catalogo, otro html usando base.html que nos muestra los discos que hemos metido. Al meternos en los discos, nos dice el precio, una pequeña descripcion y el precio a parte de un registro que no hace nada, está ahi solo para rellenar un espacio vacío que quedaba feo.
